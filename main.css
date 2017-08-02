@@ -10,10 +10,10 @@ body {
 }
 
 .hero {
-    background-image: url('https://anandipaliwal.files.wordpress.com/2015/06/food-table-relisted.jpg');
+    background-image: url('http://www.mayaindiangrill.com/wp-content/uploads/2017/05/Interior-3.jpg');
     background-size: cover;
     min-height: 300px;
-    border-radius: 4px;
+    border-radius: 30px;
     color: white;
     font-size: 36px;
     display: flex;
@@ -28,7 +28,7 @@ body {
 }
 
 #app .navbar a {
-    color: white;
+    color: black;
 }
 
 .hidden {
